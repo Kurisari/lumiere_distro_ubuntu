@@ -2,7 +2,7 @@
 
 ## Description
 
-Linux distribution designed for gaming, with programs and aesthetics focused on this area, later on all the changes made are explained
+Linux distribution designed for gaming, with programs and aesthetics focused on this area, later on all the changes made are explained. You can download the distribution in the following [link](https://drive.google.com/file/d/1-UQEjC_dRa3y-Llj2ooBj0aZZnwJDRBm/view).
 
 ## Authors
 
